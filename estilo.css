@@ -1,0 +1,80 @@
+HEADER{
+    text-align:center;
+    margin-top: 20px;
+
+}
+html {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400PX;
+    font-size: 80%;
+}
+
+p{font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: justify;
+
+}
+.body{
+    background-image:"imagens/fundo.jpg"
+}
+
+nav a {
+    color: rgb(243, 239, 239);
+    text-decoration: none;
+}
+.wrapperContainer-dark{
+background-color: rgb(149, 147, 226);
+color:black
+display:flex;
+justify-content:space-between;
+
+}
+
+.wirpperContainer-dark2{
+    background-color: rgb(241, 237, 232);
+}
+.container{
+    max-width: 127.6rem;
+    margin-left: auto;
+    text-align: justify;
+}
+.header2{
+    display: flex;
+    justify-content:right;
+    padding:1rem;
+    border: 4px;
+    
+    
+}
+
+
+.nav_header ul{
+    display:flex;
+    gap: 2rem;
+
+}
+.container-hero{
+    display: flex;
+
+}
+footer{
+    color:aqua
+}
+.a{
+    display:flex;
+    padding:20px;
+}
+.logo{
+    padding-right: 1000px;
+    height: auto;
+    
+
+}
+.p{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.torneira{
+    overflow-y: auto;
+}
